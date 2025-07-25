@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-search-service",
+  "version": "1.0.0",
+  "description": "Express server for LinkedIn profile search via PhantomBuster",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
